@@ -102,3 +102,5 @@ On the Best & Worst Seller Dashboard:
 *Ctrl + Click on Home → navigates back to the Home Dashboard
 
 📌 This approach simulates application-style navigation within Power BI.
+> 📌 Note: Power BI (.pbix) files cannot be previewed directly on GitHub.  
+> Please refer to the dashboard screenshots above or download the file to view it locally in Power BI Desktop.
