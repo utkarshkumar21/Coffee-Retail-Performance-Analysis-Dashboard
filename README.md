@@ -39,10 +39,10 @@ The dataset includes coffee shop transactional data with:
 
 📈 SQL Analysis Performed
 
-KPI calculations
-*Time-based trend analysis
-*Category and size contribution analysis
-*Product-level sales performance
+* KPI calculations
+* Time-based trend analysis
+* Category and size contribution analysis
+* Product-level sales performance
 
 All SQL queries used in this project are included in the repository.
 
@@ -55,14 +55,14 @@ Developed using Pivot Tables and Pivot Charts
 
 Slicers applied for:
 
-*Coffee Category
-*Coffee Size
-*Date (Order Date)
-*Slicer selections dynamically update:
-*KPIs
-*Sales trends
-*Product-level metrics
-*Date slicers allow users to drill down into specific months, quarters, or custom ranges
+* Coffee Category
+* Date (Order Date)
+* Slicer selections dynamically update:
+
+* KPIs
+* Sales trends
+* Product-level metrics
+* Date slicers allow users to drill down into specific months, quarters, or custom ranges
 
 📌 This provides an interactive analytical experience directly within Excel.
 <img width="1397" height="760" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/145559eb-1e5c-45ef-ad88-15d6c9e35095" />
@@ -72,10 +72,10 @@ POWER BI DATA ANALYSIS DASHBOARD
 🔹 Power BI Dashboard Interactivity
 
 Designed as a fully interactive Power BI report
-*Slicers implemented for:
-*Coffee Category
-*Coffee Size
-*Order Date
+* Slicers implemented for:
+* Coffee Category
+* Coffee Size
+* Order Date
 
 Cross-filtering enables users to analyze sales impact across multiple visuals simultaneously
 <img width="1349" height="744" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/c5b7e280-5607-4165-9991-69515a675a5d" />
@@ -88,18 +88,18 @@ The Power BI report includes navigator buttons to enhance usability and storytel
 
 📍 Pages Included
 
-*Home Dashboard – High-level KPIs and overall sales insights
-*Best & Worst Seller Dashboard – Detailed product performance analysis
+* Home Dashboard – High-level KPIs and overall sales insights
+* Best & Worst Seller Dashboard – Detailed product performance analysis
 
 🔘 Navigation Logic
 
 Navigation is implemented using bookmarks and buttons
 
-On the Home Dashboard:
-*Ctrl + Click on Best/Worst Seller → navigates to the Best & Worst Seller Dashboard
+* On the Home Dashboard:
+* Ctrl + Click on Best/Worst Seller → navigates to the Best & Worst Seller Dashboard
 
-On the Best & Worst Seller Dashboard:
-*Ctrl + Click on Home → navigates back to the Home Dashboard
+* On the Best & Worst Seller Dashboard:
+* Ctrl + Click on Home → navigates back to the Home Dashboard
 
 📌 This approach simulates application-style navigation within Power BI.
 > 📌 Note: Power BI (.pbix) files cannot be previewed directly on GitHub.  
